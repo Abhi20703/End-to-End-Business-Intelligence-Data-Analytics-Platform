@@ -88,7 +88,7 @@ SQL Analysis → KPI Modeling → Power BI Dashboard → Business Insights
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-
+https://github.com/Abhi20703/End-to-End-Business-Intelligence-Data-Analytics-Platform.git
 
 2. Install Python dependencies:
 pip install -r requirements.txt
